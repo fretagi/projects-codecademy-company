@@ -79,5 +79,5 @@ body {
 
 .team-member {
   width: 250px;
-  height: 320px;
+  height: auto;
 }
